@@ -11,7 +11,7 @@ The following technologies are used:
 
 ### Git
 
-Source control management system for any kind of text files. Allows to keep many versions of one file and merge those into one at any time. 
+Source control management system for any kind of text files. Allows to keep many versions of one file and merge those into one at any time.
 Set of files can be grouped in so called repositories.
 
 Most known tools:
@@ -30,7 +30,7 @@ Most known alternative: [Bitbucket](https://bitbucket.org)
 
 ### [GitHub Pages](https://pages.github.com/)
 
-Free static pages hosting service. 
+Free static pages hosting service.
 Sample lib that hosts its documentation page using GitHub Pages: http://getbootstrap.com/
 
 Most known alternative: I don't know anything better
@@ -45,7 +45,7 @@ Most known alternatives:
 
 ### Markdown
 
-Simple markup language used in plain text files. Later such file can be converten into any other format like HTML for example. Sample usage: this document and basically all other documents that describe this workshop.
+Simple markup language used in plain text files. Later such file can be converted into any other format like HTML for example. Sample usage: this document and basically all other documents that describe this workshop.
 
 Most known alternatives:
 - [reStructuredText](http://docutils.sourceforge.net/rst.html)
@@ -53,4 +53,4 @@ Most known alternatives:
 
 ### Chewie
 
-Chewie makes it possible to have documentation content distributend in different locations. It supports content registry management, independent docu generation and publishing.
+Chewie makes it possible to have documentation content distributed in different locations. It supports content registry management, independent docu generation and publishing.
